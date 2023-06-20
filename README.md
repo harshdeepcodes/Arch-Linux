@@ -26,3 +26,11 @@
 
 These are bugswriter's keybindings:
 ![Key Bindings](https://github.com/harshdeepcodes/Arch-Linux/assets/94488766/5953279c-bbd0-44b2-9fe3-e75433b41e2d)
+
+# Customizationss
+For setting the resolution
+1. `sudo pacman -Sy xorg-xrandr`
+2. `xrandr --output Virtual-1 --mode 1920x1080`
+
+For Wallpaper
+1. sudo pacman -Sy xwallpaper 
