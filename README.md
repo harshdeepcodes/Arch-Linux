@@ -18,4 +18,8 @@
 6. `git clone https://github.com/bugswriter/st.git`
 7. Go to each directory and `sudo make clean install`
 8. Install the dependencies it is asking for `sudo pacman -Sy <..whatever..>`
-9. 
+9. `cp /etc/X11/xinit/xinitrc ~/.xinitrc`
+10. `vim ~/.xinitrc`
+11. Delete everything below **twm...**.
+12. Add `exec dwm` there.
+13. 
