@@ -28,7 +28,14 @@ These are bugswriter's keybindings:
 ![Key Bindings](https://github.com/harshdeepcodes/Arch-Linux/assets/94488766/5953279c-bbd0-44b2-9fe3-e75433b41e2d)
 
 # Customizationss
-## For setting zsh as default shell
+
+## Installing zsh with ohmyzsh
+```bash
+sudo pacman -Sy zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### Setting zsh as default shell
 ```bash
 chsh -s $(which zsh)
 ```
