@@ -23,3 +23,6 @@
 11. Delete everything below **twm...**.
 12. Add `exec dwm` there.
 13. `sudo pacman -S ttf-jetbrains-mono ttf-font-awesome`
+
+These are bugswriter's keybindings:
+![Key Bindings](https://github.com/harshdeepcodes/Arch-Linux/assets/94488766/5953279c-bbd0-44b2-9fe3-e75433b41e2d)
