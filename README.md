@@ -4,4 +4,5 @@
 2. Installed in a virtual machine
 3. `pacman -Sy archinstall archlinux-keyring`
 4. `archinstall`
-5. Go to **Drive(s)**
+5. Tweak settings from the menu
+6. Click on **Install** or Save your config for future use.
