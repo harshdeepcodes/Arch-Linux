@@ -22,4 +22,4 @@
 10. `vim ~/.xinitrc`
 11. Delete everything below **twm...**.
 12. Add `exec dwm` there.
-13. 
+13. `sudo pacman -S ttf-jetbrains-mono ttf-fontawesome`
